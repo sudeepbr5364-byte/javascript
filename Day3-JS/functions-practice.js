@@ -1,10 +1,11 @@
+/*functions practice*/
 function greet(name){
     return "Hello " + name;
 }
 
 function add(a,b){
     return a + b;
-}
+}   
 
 function checkeven(num){
     if(num % 2 === 0){
