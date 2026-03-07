@@ -27,3 +27,5 @@ let phone = {
 }
 console.log(phone.brand);
 console.log(phone.price);
+
+
