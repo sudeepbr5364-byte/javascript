@@ -21,6 +21,7 @@ console.log("Hello\nWorld");
 console.log(`Hello
 World`);
 
+/*Example*/
 let studentname = "Abhay.";
 let course = "Computer Science Engineering";
 let year = 3;
@@ -28,6 +29,7 @@ console.log(`My name is ${studentname}
 I study ${course}
 Year: ${year}`);
 
+/*Using template literals in functions*/
 function StudentInfo(name, course, year){
     console.log(`Student Name: ${name}`);
     console.log(`Course: ${course}`);
